@@ -1,0 +1,3 @@
+# Installers are attached to GitHub Releases, not committed here.
+*.exe
+work/
