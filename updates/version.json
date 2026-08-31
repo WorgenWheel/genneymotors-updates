@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.1",
-    "notes":  "Auto-update test build. Invoice/customer editor UX pass, +Vehicle dialog, unsaved-changes guards, paid/unpaid dropdown fix.",
-    "url":  "https://github.com/WorgenWheel/genneymotors-updates/releases/download/v1.0.1/GenneyMotors-Setup-1.0.1.exe"
+    "version":  "1.0.2",
+    "notes":  "Startup update prompt now has an Install now option. Installer pre-ticks start-on-sign-in.",
+    "url":  "https://github.com/WorgenWheel/genneymotors-updates/releases/download/v1.0.2/GenneyMotors-Setup-1.0.2.exe"
 }
