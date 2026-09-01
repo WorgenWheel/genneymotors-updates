@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.4",
-    "notes":  "Update prompts no longer show release notes.",
-    "url":  "https://github.com/WorgenWheel/genneymotors-updates/releases/download/v1.0.4/GenneyMotors-Setup-1.0.4.exe"
+    "version":  "1.0.5",
+    "notes":  "Add buttons moved back to the top-right of each table.",
+    "url":  "https://github.com/WorgenWheel/genneymotors-updates/releases/download/v1.0.5/GenneyMotors-Setup-1.0.5.exe"
 }
