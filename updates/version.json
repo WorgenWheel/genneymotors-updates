@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.2",
-    "notes":  "Startup update prompt now has an Install now option. Installer pre-ticks start-on-sign-in.",
-    "url":  "https://github.com/WorgenWheel/genneymotors-updates/releases/download/v1.0.2/GenneyMotors-Setup-1.0.2.exe"
+    "version":  "1.0.3",
+    "notes":  "Editable tables now show clear cell borders. Phone Type dropdown no longer clears the number and its text isn\u0027t clipped. No false unsaved-changes prompt when opening a customer.",
+    "url":  "https://github.com/WorgenWheel/genneymotors-updates/releases/download/v1.0.3/GenneyMotors-Setup-1.0.3.exe"
 }
