@@ -1,5 +1,5 @@
 {
-    "version":  "1.2.0",
-    "notes":  "Invoices now record when they are emailed or printed, shown in a Sent column and in the invoice history.",
-    "url":  "https://github.com/WorgenWheel/genneymotors-updates/releases/download/v1.2.0/GenneyMotors-Setup-1.2.0.exe"
+    "version":  "1.3.0",
+    "notes":  "Daily/weekly scheduled backups (Settings \u003e Data); Open customer now works on paid invoices.",
+    "url":  "https://github.com/WorgenWheel/genneymotors-updates/releases/download/v1.3.0/GenneyMotors-Setup-1.3.0.exe"
 }
